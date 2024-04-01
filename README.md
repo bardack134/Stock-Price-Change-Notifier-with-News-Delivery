@@ -2,7 +2,7 @@
 
 This project uses Python to monitor the price of a stock (TSLA for Tesla Inc) and sends a text message via Twilio API when the price changes by more than 1% between yesterday and the day before yesterday. It also search news related to the company using the NewsAPI and includes this news in the text message.
 
-**Tools**
+**TOOLS**
 
 
 **requests**: Python library to send HTTP requests, allowing the program to interact with web APIs to search data.
