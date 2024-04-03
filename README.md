@@ -1,7 +1,6 @@
 # Stock-Price-Change-Notifier-with-News-Delivery
 
-This project uses Python to monitor the price of a stock (TSLA for Tesla Inc) and sends a text message via Twilio API when the price changes by more than 1% between yesterday and the day before yesterday. It also search news related to the company using the NewsAPI and includes this news in the text message.
-
+This project uses Python to monitor the stock price of any company, for example, Tesla (TSLA), and sends a text message via Twilio’s API when the stock's price changes by more than 4%. It also searches for news related to the company and includes it in the message.
 **TOOLS**
 
 
@@ -11,4 +10,7 @@ This project uses Python to monitor the price of a stock (TSLA for Tesla Inc) an
 
 **Alpha Vantage API**: provides stock prices, technical indicators, and other financial data, helping the program stay updated on stocks.
 
-**NewsAPI**: gives access to news from online sources, helping the program fetch recent news about companies and stocks.
+**News API**: gives access to news from online sources, helping the program fetch recent news about companies and stocks.
+
+
+![app img](https://github.com/bardack134/Stock-Price-Change-Notifier-with-News-Delivery/assets/142977989/87cacaef-797b-40a3-afff-bcf6b3631c60)
