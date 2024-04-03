@@ -68,7 +68,7 @@ porcentual_increment=((final_value-initial_value)/initial_value)*100
 print(porcentual_increment)
 
 
-if abs(porcentual_increment)>=0.2:
+if abs(porcentual_increment)>=4:
     print('get news')
 
 
