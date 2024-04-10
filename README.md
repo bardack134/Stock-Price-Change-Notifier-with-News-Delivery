@@ -13,11 +13,12 @@ The Stock-Price-Change-Notifier-with-News-Delivery is a Python application that 
 
 ## Tools Used
 - **Requests:** A Python library used to send HTTP requests, allowing the program to interact with web APIs to search data.
-- **Twilio:** A platform that lets you send text messages to your cellphone from your apps using APIs. More information can be found at Twilio's official documentation.
+- **Twilio:** A platform that lets you send text messages to your cellphone from your apps using APIs. More information can be found at https://www.twilio.com/docs/messaging/quickstart/python
 
+  
 ## APIs Used
-- **Alpha Vantage API:** Provides stock prices, technical indicators, and other financial data, helping the program stay updated on stocks. More information can be found at Alpha Vantage API's official documentation.
-- **News API:** Gives access to news from online sources, helping the program fetch recent news about companies and stocks. More information can be found at News API's official documentation.
+- **Alpha Vantage API:** Provides stock prices, technical indicators, and other financial data, helping the program stay updated on stocks. More information can be found at https://www.alphavantage.co/documentation/.
+- **News API:** Gives access to news from online sources, helping the program fetch recent news about companies and stocks. More information can be found at https://newsapi.org/docs/get-started#search.
 
 ## Screenshots
 
